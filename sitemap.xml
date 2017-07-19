@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://opsgoodness.me/categories/</loc>
+    <loc>http://opsgoodness.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://opsgoodness.me/tags/</loc>
+    <loc>http://opsgoodness.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://opsgoodness.me/</loc>
+    <loc>http://opsgoodness.net/</loc>
     <priority>0</priority>
   </url>
   
