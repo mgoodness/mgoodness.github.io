@@ -36,25 +36,25 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "mailto:mike@opsgoodness.net"
-    name = "envelope-o"
+    name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
     url = "https://github.com/mgoodness/"
-    name = "github"
+    name = "fab fa-github"
     weight = 2
 
 [[menu.icon]]
     url = "https://hachyderm.io/opsgoodness/"
-    name = "mastodon"
+    name = "fab fa-mastodon"
     weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/mgoodness/"
-    name = "linkedin"
+    name = "fab fa-linkedin"
     weight = 4
 
 [[menu.icon]]
     url = "https://stackoverflow.com/users/3029658/mgoodness?tab=profile"
-    name = "stack-overflow"
+    name = "fab fa-stack-overflow"
     weight = 5
