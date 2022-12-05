@@ -45,7 +45,7 @@ theme = "minimal"
     weight = 2
 
 [[menu.icon]]
-    url = "https://hachyderm.io/opsgoodness/"
+    url = "https://hachyderm.io/@opsgoodness"
     name = "fab fa-mastodon"
     weight = 3
 
